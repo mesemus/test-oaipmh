@@ -1,0 +1,10 @@
+{
+  "aliases": {
+    "oai-index": {}
+  },
+  "mappings": {
+    "properties": {
+       "owner": { "type":  "keyword" }
+    }
+  }
+}
